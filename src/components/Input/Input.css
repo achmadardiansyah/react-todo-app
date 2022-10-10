@@ -1,0 +1,31 @@
+form {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+input, button {
+    flex: 0.94;
+    background: transparent;
+    font-size: 1.3rem;
+    outline: none;
+    border: none;
+    color: #222;
+    padding: 10px 5px;
+    background: #F9F9F9;
+}
+
+button {
+    flex: 0.07;
+    font-size: 1.3rem;
+    padding: 9px 5px;
+    outline: none;
+    border: none;
+    background: #ddd;
+}
+
+button:hover {
+    background: #354259;
+    color: #F9F9F9;
+}

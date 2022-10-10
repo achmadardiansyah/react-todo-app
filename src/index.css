@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Lato:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  /* Created with https://www.css-gradient.com */
+  /* Created with https://www.css-gradient.com */
+  background: #2553E7;
+  background: -webkit-linear-gradient(top left, #2553E7, #080A71);
+  background: -moz-linear-gradient(top left, #2553E7, #080A71);
+  background: linear-gradient(to bottom right, #2553E7, #080A71);
+}

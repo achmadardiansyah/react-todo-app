@@ -1,0 +1,15 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 0 1rem;
+  min-height: 100vh;
+}
+
+.logo {
+  font-size: 4.3rem;
+  font-family: 'Alkalami', serif;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 1.5rem 0;
+  letter-spacing: 2px;
+}
